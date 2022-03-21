@@ -51,6 +51,7 @@ main {
 	margin-bottom: 1rem;
 }
 .form-select {
+	cursor: pointer;
 	font-size: var(--font-size-medium);
 	letter-spacing: 2px;
 	background-color: hsl(231, 100%, 88%);
